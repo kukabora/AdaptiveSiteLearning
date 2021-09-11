@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Neoteric-32A8';
+    src: url('/src/fonts/Neoteric-32A8.ttf') format('truetype'), url('/src/fonts/NeotericBold-xq1q.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Neoteric-32A8';
+}
