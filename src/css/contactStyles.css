@@ -1,0 +1,17 @@
+.nav-btn-text {
+    color: black;
+}
+
+.signup-btn {
+    background-color: rgb(165, 165, 165);
+}
+
+.custom-form-wrapper {
+    width: 100%;
+    background-color: #32313b;
+}
+
+.form-field {
+    background-color: #595768;
+    color: #d0d0d0;
+}
